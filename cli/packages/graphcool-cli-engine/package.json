@@ -79,7 +79,7 @@
     "cardinal": "^1.0.0",
     "chalk": "^2.2.0",
     "charm": "^1.0.2",
-    "debug": "^3.0.1",
+    "debug": "^3.1.0",
     "directory-tree": "^2.0.0",
     "find-up": "^2.1.0",
     "fs-extra": "^4.0.2",
